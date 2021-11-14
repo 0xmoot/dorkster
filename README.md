@@ -1,2 +1,2 @@
-# dorkster
-Google Dorks For Pen Testing Made Easy
+# Dorkster by 0xmoot
+Google Dorks For Penetration Testing
